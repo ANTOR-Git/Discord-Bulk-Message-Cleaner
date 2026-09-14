@@ -27,7 +27,7 @@ A modern, fast, and user-friendly desktop application built with Python and Tkin
 1. Clone the Repository
 Bash
 
-git clone https://github.com/your-username/Discord-Bulk-Message-Cleaner.git
+git clone https://github.com/ANTOR-Git/Discord-Bulk-Message-Cleaner.git
 cd Discord-Bulk-Message-Cleaner
 
 2. Install Dependencies
