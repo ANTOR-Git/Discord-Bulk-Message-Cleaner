@@ -1,4 +1,4 @@
-# Discord Bulk Message Deleter
+# Discord Bulk Message Cleaner
 
 A modern, fast, and user-friendly desktop application for searching and bulk deleting your messages across Discord servers and Direct Messages (DMs).
 
