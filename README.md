@@ -1,7 +1,7 @@
 # Discord Bulk Message Deleter
 
 A modern, fast, and user-friendly desktop application for searching and bulk deleting your messages across Discord servers and Direct Messages (DMs).
-
+[![Download Button](https://img.shields.io/badge/Direct_Download-Click_Here-success?style=for-the-badge&logo=github)](https://github.com/ANTOR-Git/Discord-Bulk-Message-Cleaner/releases/latest)
 ---
 
 ## ✨ Features
