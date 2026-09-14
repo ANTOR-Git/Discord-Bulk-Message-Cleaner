@@ -5,17 +5,17 @@ Discord Bulk Message Deleter
 A modern, fast, and user-friendly desktop application built with Python and Tkinter for searching and bulk deleting your messages across Discord servers and Direct Messages (DMs).
 ✨ Features
 
-    Custom Dark Theme UI: Custom-built Tkinter interface designed to match Discord's native dark palette[cite: 1].
+    Custom Dark Theme UI: Custom-built Tkinter interface designed to match Discord's native dark palette.
 
-    Server & Channel Bulk Cleaning: Target specific servers and select individual text/announcement channels to clean[cite: 1].
+    Server & Channel Bulk Cleaning: Target specific servers and select individual text/announcement channels to clean.
 
-    Direct Messages (DMs) Cleaning: Search and delete messages across single and group DMs[cite: 1].
+    Direct Messages (DMs) Cleaning: Search and delete messages across single and group DMs.
 
-    Adaptive Rate Limiting: Smart API back-off and acceleration to handle Discord's rate limits safely[cite: 1].
+    Adaptive Rate Limiting: Smart API back-off and acceleration to handle Discord's rate limits safely.
 
-    Real-time Progress Tracker: Animated progress bar, deletion counter, speed tracker, and estimated time remaining (ETA)[cite: 1].
+    Real-time Progress Tracker: Animated progress bar, deletion counter, speed tracker, and estimated time remaining (ETA).
 
-    Detailed Logs: Live feed showing message content snippets, success checks, and failure warnings[cite: 1].
+    Detailed Logs: Live feed showing message content snippets, success checks, and failure warnings.
 
 🛠️ Prerequisites
 
